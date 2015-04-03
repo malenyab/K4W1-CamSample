@@ -1,0 +1,16 @@
+﻿<Window x:Class="KinectCamSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Title="Kinect Camara Tutorial" Height="348.75" Width="787.5" Loaded="Window_Loaded">
+    <Grid>
+        <Image x:Name="VideoControl" Stretch="Fill" Margin="0,0,298,31"/>
+        <Button x:Name="BtnBgn" Content="Iniciar" HorizontalAlignment="Left" Margin="498,56,0,0" VerticalAlignment="Top" Width="117" Height="38" Click="BtnBgn_Click"/>
+        <Button x:Name="BtnStop" Content="Detener" HorizontalAlignment="Left" Margin="663,56,0,0" VerticalAlignment="Top" Width="117" Height="38" Click="BtnStop_Click"/>
+        <Button x:Name="BtnExit" Content="Salir" HorizontalAlignment="Left" Margin="663,0,0,0" VerticalAlignment="Top" Width="117" Height="38" Click="BtnExit_Click"/>
+        <Button x:Name="BtnSave" Content="Guardar Imagen" HorizontalAlignment="Left" Margin="498,0,0,0" VerticalAlignment="Top" Width="117" Height="38" Click="BtnSave_Click"/>
+        <Image x:Name="depthdata" Margin="514,278,219,-6"/>
+        <CheckBox x:Name="TomaAutomatica" Content="Tomar y guardar por tiempo la fotografía" HorizontalAlignment="Left" Margin="498,111,0,0" VerticalAlignment="Top" Height="34" Width="282" Checked="TomaAutomatica_Checked"/>
+        <Label x:Name="txtestatus" Content="" HorizontalAlignment="Left" Margin="498,166,0,0" VerticalAlignment="Top" Width="282" Height="35"/>
+
+    </Grid>
+</Window>
