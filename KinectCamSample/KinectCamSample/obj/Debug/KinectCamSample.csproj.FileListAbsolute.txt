@@ -1,0 +1,29 @@
+c:\users\maleny abrego\documents\visual studio 2012\Projects\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.exe.config
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.exe
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.pdb
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.csprojResolveAssemblyReference.cache
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\MainWindow.baml
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\MainWindow.g.cs
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\App.g.cs
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample_MarkupCompile.cache
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.g.resources
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.Properties.Resources.resources
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.csproj.GenerateResource.Cache
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.exe
+C:\Users\Maleny Abrego\Documents\Visual Studio 2012\Projects\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.pdb
+E:\Respaldo Junio 2014\Apps\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.exe.config
+E:\Respaldo Junio 2014\Apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.exe
+E:\Respaldo Junio 2014\Apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.pdb
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.exe.config
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.exe
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.pdb
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.exe
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\bin\Debug\KinectCamSample.pdb
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.csprojResolveAssemblyReference.cache
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\MainWindow.baml
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\MainWindow.g.cs
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\App.g.cs
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample_MarkupCompile.cache
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.g.resources
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.Properties.Resources.resources
+C:\Users\Maleny A\Desktop\Kinect apps\KinectCamSample\KinectCamSample\obj\Debug\KinectCamSample.csproj.GenerateResource.Cache
